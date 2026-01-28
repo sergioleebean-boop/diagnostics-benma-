@@ -1,0 +1,5 @@
+{
+  "name": "GlobalScan Pro Diagnostic",
+  "description": "A high-end automotive diagnostic and telemetry interface with real-time health monitoring, DTC analysis, and PDF reporting capabilities.",
+  "requestFramePermissions": []
+}
