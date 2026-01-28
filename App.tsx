@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
-import Dashboard from './components/Dashboard';
-import LiveData from './components/LiveData';
-import DiagnosticResults from './components/DiagnosticResults';
-import ReportPreview from './components/ReportPreview';
-import ActuatorTest from './components/ActuatorTest';
-import AIInsight from './components/AIInsight';
-import VehicleHealth from './components/VehicleHealth';
+import Dashboard from './components/Dashboard.tsx';
+import LiveData from './components/LiveData.tsx';
+import DiagnosticResults from './components/DiagnosticResults.tsx';
+import ReportPreview from './components/ReportPreview.tsx';
+import ActuatorTest from './components/ActuatorTest.tsx';
+import AIInsight from './components/AIInsight.tsx';
+import VehicleHealth from './components/VehicleHealth.tsx';
 import { translations, LanguageCode, TranslationKey } from './src/i18n/translations';
 
 enum View {

@@ -17,5 +17,10 @@
       "dest": "/$1",
       "status": 200
     }
-  ]
+  ],
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }
 }
